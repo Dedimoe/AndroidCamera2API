@@ -3,8 +3,11 @@ This is the sample android app of Android Camera2 API
 
 Usage:
 ```
-
+cd ~
 git clone https://github.com/Dedimoe/AndroidCamera2API.git
+
+```
+open on directory ~/AndroidCamera2API with android studio.
 
 ---
 
