@@ -23,4 +23,4 @@ Android Camera2 Class Diagram
 
 Where are the camera picture data ? They are all good and they are handled by the output target as discussed in step 2. In all cases, the camera is the producer and the targets are the consumer. The camera keeps enqueuing the picture data and once the data is available the consumer will be notified to process them. TextureView will turn the picture data into textures and draw them in the area taken by the TexureView. MediaRecoder will pass the image to codec to compress and then write them out. For ImageReader, it is up to you how to process the data. 
 
-Note: the explanation from [here](https://pierrchen.blogspot.com/2015/01/android-camera2-api-explained.htmd).
+Note: the explanation from [here](https://pierrchen.blogspot.com/2015/01/android-camera2-api-explained.html).
