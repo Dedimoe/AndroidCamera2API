@@ -1,7 +1,9 @@
 # AndroidCamera2API
-AndroidCamera2API
+This is the sampe of AndroidCamera2API
 
-Aandroid camera2 API introduced in level 21, our minimum android SDK for this project will be 21.
+Explanation :
+
+Android camera2 API introduced in level 21, our minimum android SDK for this project will be 21.
 
 ![Android Camera2 Class Diagram](image.png)
 
