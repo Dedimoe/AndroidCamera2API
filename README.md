@@ -1,7 +1,14 @@
 # AndroidCamera2API
-This is the sampe of AndroidCamera2API
+This is the sample android app of Android Camera2 API
 
-Explanation :
+Usage:
+```
+
+git clone https://github.com/Dedimoe/AndroidCamera2API.git
+
+---
+
+Explanation the Android Camera2 API :
 
 Android camera2 API introduced in level 21, our minimum android SDK for this project will be 21.
 
